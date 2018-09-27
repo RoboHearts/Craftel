@@ -1,0 +1,8 @@
+Craftel Beta ver 1.1  2018.09.18
+Update
+- Changed parts C-6, B-4 and B-5 for more smoothly eye blinking and head moving
+- Changed C-3 and C-4 for assembling more easily
+- Adjusted some position of the parts
+- Changed some color of the parts
+
+Licensed under CC-BY-SA 4.0 by Sho Yoshida (RoboHearts)
